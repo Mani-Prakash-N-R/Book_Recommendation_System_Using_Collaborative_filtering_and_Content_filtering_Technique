@@ -123,7 +123,7 @@ The **Book Recommendation System** combines the power of **Content-Based Filteri
 - **Hybrid recommendation model** for improved accuracy.
 - **API integration** with Flask to serve recommendations in a web app.
 
----
+
 
 ## 📢 **Disclaimer**:
 This system relies on **user data** (e.g., ratings and reviews) and **book details** (e.g., genre, title, description). Ensure that **data privacy** policies are followed when handling user information.
